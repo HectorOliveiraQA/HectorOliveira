@@ -3,7 +3,7 @@
 ## Olá, eu sou o Hector de Oliveira 👋
 
 Sou formado em Relações Internacionais e atualmente concluí o curso de Desenvolvedor FullStack do Serratec (Parque Tecnológico da Região Serrana).
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, atualmente 2º semestre. Comecei como estagiário de QA na ProBrain e sigo me aprimorarando cada vez mais, para contribuir para a sociedade através da programação!!
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, atualmente 3º semestre. Comecei como estagiário de QA na ProBrain e sigo me aprimorarando cada vez mais, para contribuir para a sociedade através da programação!!
 
 
 ## Tecnologias👨🏾‍💻
